@@ -15,4 +15,3 @@ if winner1>winner2:
     print(f"{winner1}is gratest number")
 elif winner1<winner2:
     print(f"{winner2}is greatest number")
-    
